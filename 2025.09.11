@@ -1,0 +1,77 @@
+1. Processor (CPU)
+	•	Recommended:
+	•	Intel Core i7 / i9 (12–16 cores, 24 threads).
+	•	AMD Ryzen 7 / 9 (8–16 cores).
+	•	Important: high core count and clock speed 4.5–5.5 GHz.
+	•	Examples: Intel i7-13700K, Ryzen 7 7800X3D.
+
+⸻
+
+2. Graphics Card (GPU)
+	•	The most important part for gaming.
+	•	Recommended:
+	•	NVIDIA RTX 4070 / 4080 / 4090 (for ultra graphics, ray tracing, DLSS).
+	•	AMD Radeon RX 7900 XT / XTX.
+	•	For 1080p gaming, RTX 4060 Ti is enough, but for 2K/4K gaming — RTX 4070 Ti and above are better.
+
+⸻
+
+3. RAM (Memory)
+	•	Minimum for gaming: 16 GB DDR4.
+	•	Optimal: 32 GB DDR5 (6000–7200 MHz).
+	•	Preferably dual-channel (2×16 GB).
+
+⸻
+
+4. Storage (SSD/HDD)
+	•	System drive: NVMe SSD 1 TB (for Windows and games).
+	•	Additional: HDD 2–4 TB (for movies, archives).
+	•	SSD is essential — it makes games load 5–10× faster.
+
+⸻
+
+5. Motherboard
+	•	Support for PCIe 4.0/5.0 (for GPU and SSD).
+	•	Strong VRM cooling.
+	•	Chipsets: Intel Z690/Z790 or AMD X670/B650.
+
+⸻
+
+6. Cooling
+	•	For CPU: liquid cooling (AIO 240–360 mm) or a high-end air cooler.
+	•	For the case: at least 3–4 fans.
+	•	Target temps under load: CPU ≤ 80 °C, GPU ≤ 85 °C.
+
+⸻
+
+7. Power Supply (PSU)
+	•	Power: 750–1000 W (80+ Gold or Platinum).
+	•	For RTX 4090 — better 1000–1200 W.
+
+⸻
+
+8. Monitor
+	•	Resolution: 2K (1440p) or 4K.
+	•	Refresh rate: 144–240 Hz.
+	•	Response time: ≤ 1 ms.
+	•	Technologies: G-Sync / FreeSync.
+
+⸻
+
+9. Peripherals (for gaming)
+	•	Keyboard: mechanical (with RGB backlight).
+	•	Mouse: high DPI (8000–26000).
+	•	Headset: surround sound 7.1.
+	•	Gamepad: Xbox or DualSense (optional).
+
+⸻
+
+🚀 Example of a Powerful Build (2025)
+	•	CPU: AMD Ryzen 7 7800X3D.
+	•	GPU: NVIDIA RTX 4080 Super.
+	•	RAM: 32 GB DDR5 (6000 MHz).
+	•	SSD: 1 TB NVMe Gen4.
+	•	HDD: 2 TB.
+	•	PSU: 850 W Gold.
+	•	Cooling: 360 mm liquid cooling.
+	•	Monitor: 27” 2K, 240 Hz, IPS.
